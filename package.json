@@ -1,0 +1,23 @@
+{
+  "name": "dn_202206_cv_example_tranquangtri",
+  "version": "1.0.0",
+  "description": "Create a simple CV to demonstrate HTML &amp; CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tquangtri/dn_202206_java_CV_Example_TranQuangTri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tquangtri/dn_202206_java_CV_Example_TranQuangTri/issues"
+  },
+  "homepage": "https://github.com/tquangtri/dn_202206_java_CV_Example_TranQuangTri#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
